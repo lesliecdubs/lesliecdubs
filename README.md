@@ -16,6 +16,6 @@ Combining my love of working on dev tools, UI components, and systems thinking, 
 ## Other stuff I like
 In my spare time, I frequent the [ReactJS Dallas](http://meetup.com/reactjsdallas) and [Women Who Code DFW](https://www.womenwhocode.com/dfw) meetups, volunteer at [Jewish Family Service](https://jfsdallas.org/), teach ninth grade religious school, and hang out with my [(chef) spouse](http://www.thejoyfulbelly.com/) and basset hound mix [FBI Agent Burt Macklin](https://www.instagram.com/dammitmacklin/).
 
-- 💬 Ask me about web accessibility, frontend-focused dev tools, code review practices, board games, and wine.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a hyphenated last name, but neither of those names were ones I was born with!
+- 💬 Ask me about web accessibility, frontend-focused dev tools, code review practices, board games, and wine.
