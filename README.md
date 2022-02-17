@@ -9,7 +9,7 @@ The first line of code I ever wrote was for my LiveJournal theme.
 
 I had a college internship building Drupal and WordPress sites for nonprofits; a few years later, I was developing [sites for Nintendo](https://web.archive.org/web/20150312155138/http://nesremix.nintendo.com/) at an NYC ad agency.
 
-As an agency dev, I saw firsthand how the Jamstack would revolutionize the web. I loved it so much that I joined [Netlify](https://netlify.com) in 2018 as employee number 30-something. I worked on lots of things, but primarily spent my time building and maintaining the React app that powers [app.netlify.com](https://app.netlify.com) and helping hire and build out the frontend discpline at Netlify.
+As an agency dev, I saw firsthand how the Jamstack would revolutionize the web. I loved it so much that I joined [Netlify](https://netlify.com) in 2018 as employee number 30-something. I worked on lots of things, but primarily spent my time building and maintaining the React app that powers [app.netlify.com](https://app.netlify.com) and helping hire and build out the frontend discipline at Netlify.
 
 Combining my love of working on dev tools, UI components, and systems thinking, I joined [GitHub](https://github.com) in 2022 as a staff engineering manager supporting the team who builds the [Primer Design System](https://primer.style/).
 
