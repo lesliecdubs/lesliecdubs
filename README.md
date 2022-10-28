@@ -17,5 +17,5 @@ In 2022, I went to work on my other favorite dev tool: GitHub. Combining my love
 In my spare time, I frequent the [ReactJS Dallas](http://meetup.com/reactjsdallas) and [Women Who Code DFW](https://www.womenwhocode.com/dfw) meetups, volunteer at [Jewish Family Service](https://jfsdallas.org/), teach ninth grade religious school, play board games, host dinner parties, and hang out with my [(chef) spouse Eli](http://www.thejoyfulbelly.com/) and basset hound mix [FBI Agent Burt Macklin](https://www.instagram.com/dammitmacklin/).
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a hyphenated last name, but neither of those names were ones I was born with!
+- ⚡ Fun facts: I have a hyphenated last name, but neither of those names were ones I was born with! I also live part-time at a summer camp.
 - 💬 Ask me about web accessibility, frontend-focused dev tools, code review practices, board games, and wine.
