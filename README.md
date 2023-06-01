@@ -11,7 +11,7 @@ I had a college internship building Drupal and WordPress sites for nonprofits; a
 
 As an agency developer, I saw firsthand how the Jamstack would revolutionize the web. I loved it so much that I joined [Netlify](https://netlify.com) in 2018 as employee number 30-something, where I [worked on the React app](https://twitter.com/lesliecdubs/status/1207770216576487425) that powers [app.netlify.com](https://app.netlify.com) and later managed the burgeoning growth engineering team.
 
-In 2022, I went to work on my other favorite dev tool: GitHub. Combining my love of UI, accessibility, and systems thinking, I joined as Director of Design Engineering to support the teams who build the [Primer Design System](https://primer.style/) and bring GitHub's brand to life through [creative code](https://github.blog/2020-12-21-how-we-built-the-github-globe/).
+In 2022, I went to work on my other favorite dev tool: GitHub. Combining my love of UI, accessibility, and systems thinking, I joined as an engineering manager to support the teams who build the [Primer Design System](https://primer.style/) and bring GitHub's brand to life through [creative code](https://github.blog/2020-12-21-how-we-built-the-github-globe/).
 
 ## Other stuff I like
 In my spare time, I frequent the [ReactJS Dallas](http://meetup.com/reactjsdallas) and [Women Who Code DFW](https://www.womenwhocode.com/dfw) meetups, volunteer at [Jewish Family Service](https://jfsdallas.org/), teach ninth grade religious school, play board games, host dinner parties, and hang out with my [(chef) spouse Eli](http://www.thejoyfulbelly.com/) and basset hound mix [FBI Agent Burt Macklin](https://www.instagram.com/dammitmacklin/).
