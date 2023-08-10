@@ -1,6 +1,6 @@
 # Hello, world. I'm Leslie! 👩🏻‍💻
 
-I’m a “front of the frontend” software engineering leader who loves supporting teams working with the [Jamstack](https://jamstack.org/), React, CSS (😍), design systems, and accessibility.
+I’m a “front of the frontend” software engineering leader who loves supporting teams working with React, CSS (😍), design systems, and accessibility.
 
 I’m a former co-host of the devchat.tv podcast [React Round Up](https://reactroundup.com/hosts/lesliecohn-wein), and my agency work has been nominated for a Webby and 4x Awwwards. A site I developed in 2018 won the [CommArts Interactive Award](https://www.commarts.com/project/26022/the-parker-palm-springs). I’ve also written for CSS Tricks and LeadDev, and helped grow Netlify's frontend discipline from 2 to 12+ engineers during the startup's early years.
 
